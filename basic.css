@@ -25,3 +25,11 @@ section {
     padding: 20px;
     margin: 10px;
 }
+
+.hidden-text { 
+  display: none; 
+} 
+ 
+.show-text:hover .hidden-text { 
+  display: block; 
+} 
